@@ -6,7 +6,7 @@ I have created a simple survey form using HTML and CSS. The domain for survey fo
 Task-2: Validation
 In this task I have used HTML, JAVASCRIPT for validating the input fields. Various fields like phone number, email, etc have been validated. The same survey form is used for validation.
 
-Task-3: Tic-Tac_Toe Gsme
+Task-3: Tic-Tac_Toe Game
 I have created a simple Tic-Tac-Toe Game using HTML and JavaScript. I have also used CSS for styling of the game. The game in on itself is very flexible which allows the user to play it on any device without error. It displays approximate result, winner and loser along with a win scenario celebration.
 
 Task-4: BMI Calculator
